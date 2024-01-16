@@ -1,0 +1,18 @@
+.mt-3{
+    color: rgb(77, 77, 253);
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.text-dark{
+    width: 50%;
+    margin-left: 25%;
+    
+}
+
+
+.searchWrapper{
+    border-width: 0;
+    border-bottom-width: 4px;
+    border-bottom-color: rgb(77, 77, 253);
+}
